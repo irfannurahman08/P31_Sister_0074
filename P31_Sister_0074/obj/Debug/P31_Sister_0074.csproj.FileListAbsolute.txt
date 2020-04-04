@@ -1,0 +1,6 @@
+D:\Latihan\C#\P31_Sister_0074\P31_Sister_0074\bin\Debug\P31_Sister_0074.exe.config
+D:\Latihan\C#\P31_Sister_0074\P31_Sister_0074\bin\Debug\P31_Sister_0074.exe
+D:\Latihan\C#\P31_Sister_0074\P31_Sister_0074\bin\Debug\P31_Sister_0074.pdb
+D:\Latihan\C#\P31_Sister_0074\P31_Sister_0074\obj\Debug\P31_Sister_0074.csprojResolveAssemblyReference.cache
+D:\Latihan\C#\P31_Sister_0074\P31_Sister_0074\obj\Debug\P31_Sister_0074.exe
+D:\Latihan\C#\P31_Sister_0074\P31_Sister_0074\obj\Debug\P31_Sister_0074.pdb
